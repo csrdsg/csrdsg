@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csrdsg
-- 👀 I’m interested in data secience and enginnering
+- 👀 I’m interested in data science and engineering
 - 🌱 I’m currently learning Elixir and Ecto to store and push data around
 
 <!---
